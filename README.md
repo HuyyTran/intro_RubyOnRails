@@ -1,28 +1,7 @@
 
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Git : https://github.com/HuyyTran/intro_RubyOnRails
+Docs: Getting Started with Rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-# intro_RubyOnRails
-origin/main
+This project  will follow the docs above for learning purposes of Ruby on Rails
